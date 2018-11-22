@@ -3,7 +3,7 @@ package OnlyHashMap;
 import java.util.HashMap;
 import java.util.Map;
 
-public class HashMap1 {
+public class HashMapPutIfAbsent {
 
 	public static void main(String[] args) {
 		HashMap<Integer, String> map = new HashMap<Integer, String>();

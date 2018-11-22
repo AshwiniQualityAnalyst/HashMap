@@ -2,7 +2,7 @@ package OnlyHashMap;
 
 import java.util.HashMap;
 
-public class HashMap2 {
+public class HashMapRemove {
 
 	public static void main(String[] args) {
 
